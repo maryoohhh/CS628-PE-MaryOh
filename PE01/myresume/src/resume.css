@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-color: #bdfb04;
+    color: black;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.workexperience li{
+    list-style-type: none;
+}
+
+.certificate li{
+    list-style-type: none;
+}
+
+.education li{
+    list-style-type: none;
+}
